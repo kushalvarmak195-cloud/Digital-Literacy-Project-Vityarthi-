@@ -1,8 +1,8 @@
 # Digital Literacy Portfolio (CSE0001)
 
 ## Student Details
-* **Name:** Aviral Sahu
-* **Registration Number:** 25BAI10409
+* **Name:** K Kushal Varma
+* **Registration Number:** 25BCE10447
 * **Branch:** B.Tech Computer Science and Engineering
 * **Institution:** VIT Bhopal University
 
