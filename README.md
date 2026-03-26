@@ -33,5 +33,5 @@ This repository contains my digital portfolio and coursework for the CSE0001 Dig
 * **Description:** A case study on UPI "Collect Request" fraud targeting college students, accompanied by a practical "Stay Safe Online" prevention checklist.
 
 ## Final Report
-* **Folder:** `report/`
+* **Folder:** `Report/`
 * **Description:** The comprehensive final project report documenting reflections, tools used, and overall learnings from all five tasks.
